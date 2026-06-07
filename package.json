@@ -33,6 +33,7 @@
         "@types/bun": "latest",
         "pkgroll": "^2.11.2",
         "typescript": "^5.8.2",
-        "ws-asyncapi": "^0.1.0"
+        "ws-asyncapi": "^0.1.0",
+        "zod": "^4.4.3"
     }
 }
